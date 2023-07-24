@@ -10,7 +10,7 @@ Screenshot                 | Screenshot
 ![ss1](assets/screenshots/ss1.png) | ![ss2](assets/screenshots/ss2.png)
 
 ### Installing
-* Check releases.
+* [RELEASES](https://github.com/cusufcan/grade_average_app/releases/tag/flutter)
 
 ### Local Installing
 * Just clone the repo.
