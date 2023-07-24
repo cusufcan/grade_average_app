@@ -1,16 +1,22 @@
-# grade_average_app
+# Zodiac Guide App
+This project is the second one of my new simple Flutter projects.
 
-A new Flutter project.
+## Features
+- Input your course names, credits, and grades to see your average.
 
-## Getting Started
+## Screenshots
+Screenshot                 | Screenshot                
+:-------------------------:|:-------------------------:
+![ss1](assets/screenshots/ss1.png) | ![ss2](assets/screenshots/ss2.png)
 
-This project is a starting point for a Flutter application.
+### Installing
+* Check releases.
 
-A few resources to get you started if this is your first Flutter project:
+### Local Installing
+* Just clone the repo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Built With
+* [Flutter](https://flutter.dev/) - Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+* [**Yusuf Can Mercan**](https://github.com/cusufcan)
