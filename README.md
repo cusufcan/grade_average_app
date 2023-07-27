@@ -1,4 +1,4 @@
-# Zodiac Guide App
+# Grade Average App
 This project is the second one of my new simple Flutter projects.
 
 ## Features
